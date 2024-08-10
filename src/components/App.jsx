@@ -126,7 +126,7 @@ function Dashboard()
     }
 
     const displayScoreBoard = () => {
-        let topMessage = "Memorize the cards! Click cards you have not picked before to increase score!"; 
+        let topMessage = "Memorize the cards! Click cards you have not picked before to increase your score!"; 
         if (score === 0 && !isStart) {
             topMessage = "Woops you picked that one already!";
         } 
