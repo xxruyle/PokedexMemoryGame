@@ -50,6 +50,8 @@
     font-size: larger;
     padding: 0px;
     height: 2px;
+        text-transform: capitalize;
+
 }
 
 /* On mouse-over, add a deeper shadow */
